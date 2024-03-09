@@ -21,7 +21,7 @@ Nossa equipe oficial, que contribuiu com sua energia e afinco
 * limpeza de dados
 * exportação para o formato .CSV
 * modelagem e construção do banco de dados
-* importação ao bando de dados
+* importação ao banco de dados
 * importação dos dados para o Power BI
 * criação das visualizações
 * apresentação
