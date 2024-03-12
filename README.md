@@ -15,8 +15,7 @@ Nossa equipe oficial, que contribuiu com sua energia e afinco
 * Luiz Felipe Xavier
 * Pedro Henrique
 * Renan Costa
-* Stéphanie Martins
-
+* Stephane do Nascimento Martiniano
 ## etapas
 * limpeza de dados
 * exportação para o formato .CSV
